@@ -30,24 +30,79 @@
     Mjesto rođenja:Livno<br>
     
 </p>
-<hr>
-<h2>Iskustvo</h2>
-<ul>
+<br>
+<br>
+<p > 
+    <h3 class="title"> <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
     
-      <li>Pohađala osnovu školu IGK"Livno"<br></li> 
-      <li>Treutno pohađam Srednju Strukovnu školu<br></li> 
-      <li>Zanimanje:"Web Dizajn"<br></li>
-    </li>
+        <br>
+        Obrazovanje: </h3>
+        <br>
+    <ul>
+    <li>Pohađala je osnovnu školu Ivan Goran Kovačić </li><br>
+    <li>Trenutno pohađa Srednju strukovnu školu </li><br>
+    <li> Smjer: Web dizajn</li>
 </ul>
-</hr>
 <hr>
-<h2>Jezici</h2>
-<ul>
-    <li>Engleski jezik&#11088</li>
-    <li>Hrvatski jezik&#11088</li>
-    <li>Njemački jezik&#11088</li>
-</ul>
-</hr>
+</p>
+<br>
+
+<br>
+<p> 
+    <h3 class="title"> 
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+        
+            <br>
+             Jezici: </h3>
+             <br>
+    <ul>
+         <li>Hrvatski jezik &#11088; &#11088; &#11088; &#11088; &#11088; </li> <br>
+            <li>Engleski jezik &#11088; &#11088; &#11088;  </li> <br>
+            <li>Njemački jezik &#11088; </li> <br>
+            
+        </ul> 
+        <hr>
+        </p>
+<br>
+<br>
+<p>
+
+<h3> class="title"> <span class="dot"></span>
+     <span class="dot"></span>
+     <span class="dot"></span>
+     <span class="dot"></span>
+     <span class="dot"></span>
+     <br>
+     Vještine: </h3>
+     <br>
+     <table class="tablica">
+     <thead >
+     
+     <tr class="tablica">
+         <td class="tablica">Slaganje rubikove kocke 3x3 &#11088;&#11088;&#11088;&#11088;&#11088; <br>
+             Slaganje rubikove kocke 2x2 &#11088;&#11088;&#11088;</td>
+      
+     
+         <td class="tablica">Rad u photoshopu &#11088;&#11088; <br>
+             HTML i CSS &#11088;&#11088;</td>
+      
+     
+     </tr>
+
+
+     
+</body>
+</html>
+
+
 
 
     
@@ -61,5 +116,4 @@
    
 
     
-</body>
-</html>
+
