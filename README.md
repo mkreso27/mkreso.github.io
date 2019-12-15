@@ -23,11 +23,17 @@
 
 </head>
 <body>
-    <img src="https://image.dnevnik.hr/media/images/868x567/Dec2019/61799111-rihanna.jpg" alt="20">
+   
+        
+    
+        <img src="https://static.igre123.net/slike/93176-35344/kevin.jpg" alt="20">
+        <p>
+            <hr>
     <h1>Marina Krešo</h1>
-<p>
-    Rođenje:27.12.2003.<br>
+
+    Rođenje:27.12.2003.<br> 
     Mjesto rođenja:Livno<br>
+                
     
 </p>
 <br>
@@ -40,6 +46,7 @@
         <span class="dot"></span>
     
         <br>
+        <hr>
         Obrazovanje: </h3>
         <br>
     <ul>
@@ -75,7 +82,7 @@
 <br>
 <p>
 
-<h3> class="title"> <span class="dot"></span>
+<h3 class="title"> <span class="dot"></span>
      <span class="dot"></span>
      <span class="dot"></span>
      <span class="dot"></span>
